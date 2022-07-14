@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Aplicacion de React de personajes de la serie de televisión Breaking Bad
 
+Aplicacion desarrollada en React en el muestra una lista de los personajes de la serie "Breaking Bad" y con un filtro de busqueda para segmentar los resultados. 
+La informacion sobre los personajes se obtiene a treves del uso de un API publica de [Breaking Bad](https://breakingbadapi.com/documentation).
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Aplicacion deployada
+
+Aplicacion deployada en [netlify](https://velvety-jalebi-4d6681.netlify.app/).
 
 ## Available Scripts
 
@@ -68,3 +74,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Contacto
+
+Nombre: Martin Galvez
+Correo: martin.galvez@udla.edu.ec
